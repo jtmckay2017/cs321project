@@ -3,4 +3,5 @@
 -Watch
 -Micro-day manager
 -recipe suggester
--
+-clothing suggester
+-pick up game app
